@@ -3,4 +3,4 @@ function randomRange(myMin, myMax) {
 }
 
 
-console.log( randomRange(5, 6)  )
+console.log( randomRange(5, 10)  )
