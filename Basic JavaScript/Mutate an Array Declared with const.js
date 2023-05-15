@@ -10,3 +10,5 @@ function editInPlace() {
     // Only change code above this line
 }
 editInPlace();
+
+console.log(s) // [2, 5, 7]
