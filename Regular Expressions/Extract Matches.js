@@ -4,3 +4,11 @@ let result = extractStr.match(codingRegex); // Change this line
 
 
 console.log( result )
+/*
+    [
+                'coding',
+                index: 18,
+                input: "Extract the word 'coding' from this string.",
+                groups: undefined
+    ]
+*/
