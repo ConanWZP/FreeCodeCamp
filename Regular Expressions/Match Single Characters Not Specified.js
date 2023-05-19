@@ -3,4 +3,14 @@ let myRegex = /[^aeiou0-9]/gi; // Change this line
 let result = quoteSample.match(myRegex); // Change this line
 
 
-console.log( result.length  ) // 9
+console.log( result  )
+
+/*
+[
+  ' ', 'b', 'l',
+  'n', 'd', ' ',
+  'm', 'c', '.'
+]
+
+*
+* */
