@@ -4,4 +4,4 @@ function House(numBedrooms) {
 
 // Only change code below this line
 let myHouse = new House(2);
-myHouse instanceof House
+myHouse instanceof House // true
