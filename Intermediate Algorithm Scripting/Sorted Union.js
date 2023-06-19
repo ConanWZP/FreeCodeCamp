@@ -15,11 +15,11 @@ function uniteUnique(arr) {
         }
 
     }
-   // console.log(b)
+
     return array
 
 
-   // return arr;
+
 }
 
 
